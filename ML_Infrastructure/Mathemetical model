@@ -5,18 +5,28 @@ Mathemetical model
     A model may help to explain a system and to study the effects fo diffrent components,and to make predictions about the behaviour.
 	
 Regression Analysis
-	In statistical modeling,regression analysis is a set of statistical process for estimating the relationships among variables.
-	it includes many techniques for modeling and analyzing several variables,when the focus  is on the relationship between a dependent variable and one or more independent variables 
+	In statistical modeling,regression analysis is a set of statistical process for estimating the
+	relationships among variables.
+	it includes many techniques for modeling and analyzing several variables,when the focus  is on
+	the relationship between a dependent variable and one or more independent variables
 	
-	Regression analysis is widly used for predictions and forecasting, where its use has substantial overlap with the field of machine learning. 
+	Regression analysis is widly used for predictions and forecasting, where its use has substantial
+	overlap with the field of machine learning.
 
 
 Linear regression
-	In statistic,linear regression is a linear approach to modeling the relationship between a scalar responses(dependent variable) and one or more explanatory variables or independent variables 
+	In statistic,linear regression is a linear approach to modeling the relationship between a scalar
+	responses(dependent variable) and one or more explanatory variables or independent variables
 	
-	The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression.
+	The case of one explanatory variable is called simple linear regression. For more than one
+	explanatory variable, the process is called multiple linear regression.
 	
-	Linear regression models are often fitted using the least squares approach, but they may also be fitted in other ways, such as by minimizing the "lack of fit" in some other norm (as with least absolute deviations regression), or by minimizing a penalized version of the least squares cost function as in ridge regression (L2-norm penalty) and lasso (L1-norm penalty). Conversely, the least squares approach can be used to fit models that are not linear models. Thus, although the terms "least squares" and "linear model" are closely linked, they are not synonymous.
+	Linear regression models are often fitted using the least squares approach, but they may
+	also be fitted in other ways, such as by minimizing the "lack of fit" in some other norm
+	(as with least absolute deviations regression), or by minimizing a penalized version of the
+	least squares cost function as in ridge regression (L2-norm penalty) and lasso (L1-norm penalty).
+	Conversely, the least squares approach can be used to fit models that are not linear models. Thus,
+	although the terms "least squares" and "linear model" are closely linked, they are not synonymous.
 	
 	
 	
