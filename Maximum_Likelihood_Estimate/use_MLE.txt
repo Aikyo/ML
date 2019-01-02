@@ -1,0 +1,13 @@
+Likelihood Function
+    Likelihood describes the plausibility of a model parameter value, given specific observed data.
+
+    Discrete probability distribution
+
+
+Maximum likelihood estimation
+    In statistics, maximum likelihood estimation (MLE) is a method of estimating the parameters of a
+    statistical model, given observations. MLE attempts to find the parameter values that maximize the
+    likelihood function, given the observations. The resulting estimate is called a maximum likelihood
+    estimate, which is also abbreviated as MLE.
+
+
